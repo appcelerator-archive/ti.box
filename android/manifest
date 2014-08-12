@@ -15,4 +15,4 @@ name: box
 moduleid: ti.box
 guid: 82b11bc0-0f31-4407-b7b4-b82beb93f6e0
 platform: android
-minsdk: 2.1.3.GA
+minsdk: 3.2.2.GA
