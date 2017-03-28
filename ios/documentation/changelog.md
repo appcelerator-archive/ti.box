@@ -1,5 +1,7 @@
 # Change Log
 <pre>
+v1.2.0 	[MOD-18092] Updating module to support 64-bit.
+
 v1.1.2  [MOD-945] Building with 2.1.3.GA and open sourcing
 	
 v1.1.1	Fixed erratic row resizing in example with Titanium Mobile 2.0.1 and displayed loading while parent view is refreshing [MOD-626]
